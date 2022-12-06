@@ -1,0 +1,39 @@
+/* ECHO POR COSMIN CALIN */
+body {
+    background-color: #b8ffcc;
+    font-family: Geòrgia, Cambria, serif;
+    font-size: 16px;
+}
+
+h1 {
+    color: #ff0000;
+    font-size: 32px;
+}
+
+h2 {
+    color: #a00000;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 24px;
+}
+
+p,
+li {
+    color: #5f00ff;
+}
+
+#textoVerde {
+    color: #006000;
+}
+
+#textoNegrita {
+    font-weight: bold;
+    /* No he puesto el <strong> porque esto es mas adaptable que eso */
+    font-size: 20px;
+}
+
+#textoBlancoFondoNegro {
+    background-color: black;
+    color: white;
+    font-style: italic;
+    /* No he puesto el <em> porque esto es mas adaptable que eso */
+}
